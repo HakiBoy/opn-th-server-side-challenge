@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "email": "john.doe@example.com",
+    "password": "$2b$10$uFzECl4zwK7A/m4Dh6ciReQlsEsrI7rQ/o3Kvw8sAdlkhrEjN6e7i",
+    "name": "John Doe",
+    "dateOfBirth": "1980-12-12",
+    "gender": "Male",
+    "address": "123 Queens New York",
+    "subscribeToNewsletter": true
+  }
+]
